@@ -1,7 +1,7 @@
 # SimLex-999-est-eng
 ## Results from distributional models
 
-|         Measure         |   r  |   p  |   t  | r    | p    | t    |
+|         Measure         |   Pearson  |   Spearman  |   Kendall  | Pearson    | Spearman    | Kendall    |
 |:-----------------------:|:----:|:----:|:----:|------|------|------|
 |     cbow_100_5_10_20    | 0.37 | 0.36 | 0.24 | 0.37 | 0.39 | 0.27 |
 |    cbow_150_15_10_20    | 0.39 | 0.39 | 0.27 | 0.40 | 0.43 | 0.30 |
