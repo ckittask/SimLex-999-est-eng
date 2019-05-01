@@ -1,4 +1,4 @@
-# SimLex-999-est-eng
+# EstSimLex-999
 ## Results from distributional models
 
 |         Measure         |   Pearson  |   Spearman  |   Kendall  | Pearson    | Spearman    | Kendall    |
